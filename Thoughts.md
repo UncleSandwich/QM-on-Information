@@ -12,4 +12,4 @@ subsystem' infromtion (smaller). This statement also applies for the state densi
 * The fusion of systems is a conclusive and overall statement of such interaction. 
 * The fusion is stronger (has greater change on the whole compared to subsystem, similar to (or equivelant to) the emergence of new properties in condense matter
 physics) between nearby systems ("near" meaning the quantity of one of parameters, e.g. position, time, is close). 
-* 
+* Entropy defined in the quantum information theory is a coarse-grained characterization and measure of information of a system.
